@@ -15,7 +15,7 @@ The **Airline Ticket Reservation System** is a console-based Java application th
 ✅ View booking details  
 
 ## **Technologies Used**  
-- **Programming Language:** Java  
+- **Programming Language:** Java  Spring 
 - **Database:** MongoDB  
 - **Build Tool:** Maven  
 
